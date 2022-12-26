@@ -4,6 +4,8 @@ I've used git and github before this and mostly don't feel confused about the co
 
 ## Tasks
 
+- [x] Create a branch
+- [x] Create a pull request
 - [x] Create a readme
 - [x] Add relevant data to the readme file
 
